@@ -11,7 +11,7 @@ class Solution {
         // Print a string literal saying "Hello, World." to stdout using cout.
         Console.WriteLine("Hello, World.");
         
-        // TODO: Write a line of code here that prints the contents of input_string to stdout.
+        // Print the contents of input_string to stdout.
         Console.WriteLine(inputString);
     }
 }
