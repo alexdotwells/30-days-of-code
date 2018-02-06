@@ -2,12 +2,12 @@ using System;
 
 class Solution {
     static void Main(String[] args) {
-        // Declare second integer, double, and String variables.
+        // Declare integer, double, and String variables.
         int i2 = new int();
         double d2 = new double();
         string s2 = "";
 
-        // Read and save an integer, double, and String to your variables.
+        // Read and save an integer, double, and String to variables.
         i2 = int.Parse(Console.ReadLine());
         d2 = double.Parse(Console.ReadLine());
         s2 = Console.ReadLine();
