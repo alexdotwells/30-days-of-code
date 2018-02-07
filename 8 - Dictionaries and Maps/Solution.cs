@@ -4,10 +4,11 @@ using System.IO;
 
 class Solution {
     static void Main(String[] args) {
-        /* Read input from STDIN. Print output to STDOUT. */
-        var n = int.Parse(Console.ReadLine());
+        
         var phoneBook = new Dictionary<string,int>();
         
+        var n = int.Parse(Console.ReadLine());
+
         for (int i=0; i<n; i++) 
         {        
             var input = Console.ReadLine().Split(' ');
