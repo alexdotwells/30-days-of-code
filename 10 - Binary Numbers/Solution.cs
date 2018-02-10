@@ -16,7 +16,10 @@ class Solution
                 sum++;
 
                 if (sum > max)
+                {
                     max = sum;
+                }
+                    
             }
             else sum = 0;
 
