@@ -20,7 +20,6 @@ class Solution {
         Console.WriteLine(dSum.ToString("0.0"));
 
         // Concatenate and print the String variables on a new line
-        // The 's' variable will printed first.
         Console.WriteLine(s + s2);
     }
 }
